@@ -1,0 +1,1 @@
+La  nmarcao esta disponible o te has equivocado, intenta con otra (termina programa para regresar al menu)
